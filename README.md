@@ -1,1 +1,1 @@
-# polypharmacy-codes
+# Code lists for Antipsychotic medication and risk of metabolic disorders in people with schizophrenia: a longitudinal study using the UK Clinical Practice Research Datalink, a paper published here: DOI
